@@ -1,0 +1,11 @@
+sonymdrzx220bt, kafabantl� stereo kulakl�k,190,18,180gr,55
+lenovoP2,android ceptelefonu,1400,18,300gr, 45
+dell 7577,oyuncu laptobu,5000,18,5 kg,35
+iphone6,32 gb space grey,2200,18,250gr,40
+logitech k345, kablosuz mouse klavye seti,150,18,580gr,20
+sony xa,telefon,1450,18,230,35
+lenovoa,laptop,3000,18,3kg,40
+nokia a1,cep telefonu,1000,18,200gr,30
+logitech a1,mouse,100,18,200 gr,10
+snopy,kulaklık,50,18,100gr,5
+
